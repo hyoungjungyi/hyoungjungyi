@@ -11,7 +11,7 @@ Korea University Business School + software convergence degree : 2022 - Present
 USC Marshall exchange student : 2024 Spring cohort  
 
 
-🏂 Awards
+🏂 Awards  
 KAIST AI Hackathon Mayor's Award  
   : news short-form video platform  
 Athena Hacks 3rd place  
