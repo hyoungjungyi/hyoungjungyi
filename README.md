@@ -1,4 +1,4 @@
-## 👋 Hello! I'm Hyunjung Yi
+## Haley Yi
 Welcome to my GitHub! I'm an aspiring AI researcher with a keen interest in Human-Computer Interaction (HCI) and data analysis. 
 
 
