@@ -21,4 +21,4 @@ KUBS Data Analytics for Business 3rd place
 
   
 📫 Connect with Me  
-Feel free to reach out to discuss AI, HCI, or any potential collaboration! Let’s make an impact together.
+Feel free to reach out to discuss AI, HCI, or any potential collaboration! Let’s make an impact together - ruby3672@korea.ac.kr
