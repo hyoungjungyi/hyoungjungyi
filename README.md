@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hello! I'm Hyunjung Yi
+Welcome to my GitHub! I'm an aspiring AI researcher with a keen interest in Human-Computer Interaction (HCI) and data analysis. 
 
-<!--
-**hyoungjungyi/hyoungjungyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Technical Skills
+Languages & Frameworks: Python, PyTorch, Selenium, Beautiful Soup, and tools for NLP.
+Projects:
+Automated news content summarization and video generation using TTS and generative AI.
+Financial data analysis and stock data preprocessing for NASDAQ and KOSPI tickers.
+Exploring adaptive forecasting, dynamic programming for optimization, and graph algorithms.
 
-Here are some ideas to get you started:
+🛠️ Education
+Korea University Business School 2022 - Present 
+  - software convergence degree
+USC Marshall exchange student 2024 Spring cohort
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏂 Awards
+KAIST AI Hackathon Mayor's Award
+  : news short-form video platform
+Athena Hacks 3rd place
+  : ride sharers to the airport
+KUBS Data Analytics for Business 3rd place
+  : traffic light cycle optimization
+  
+📫 Connect with Me
+Feel free to reach out to discuss AI, HCI, or any potential collaboration! Let’s make an impact together.
