@@ -7,8 +7,8 @@ Languages : Python, Java, Flutter
 
 
 🛠️ Education  
-Korea University Business School +software convergence degree  2022 - Present      
-USC Marshall exchange student 2024 Spring cohort  
+Korea University Business School + software convergence degree : 2022 - Present      
+USC Marshall exchange student : 2024 Spring cohort  
 
 
 🏂 Awards
