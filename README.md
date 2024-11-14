@@ -2,11 +2,7 @@
 Welcome to my GitHub! I'm an aspiring AI researcher with a keen interest in Human-Computer Interaction (HCI) and data analysis. 
 
 🌟 Technical Skills
-Languages & Frameworks: Python, PyTorch, Selenium, Beautiful Soup, and tools for NLP.
-Projects:
-Automated news content summarization and video generation using TTS and generative AI.
-Financial data analysis and stock data preprocessing for NASDAQ and KOSPI tickers.
-Exploring adaptive forecasting, dynamic programming for optimization, and graph algorithms.
+Languages : Python, Java, Flutter
 
 🛠️ Education
 Korea University Business School 2022 - Present 
