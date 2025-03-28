@@ -4,10 +4,10 @@ Welcome to my GitHub! I'm an aspiring AI researcher with a keen interest in Huma
 
 
 
-🛠️ Work Experience
-Samsung Medison AI internship
-DMIS lab Undergraduate Research Intern
-USC Marshall Research Intern
+🛠️ Work Experience   
+Samsung Medison AI internship   
+DMIS lab Undergraduate Research Intern   
+USC Marshall Research Intern   
 
 
 🛠️ Publication  
