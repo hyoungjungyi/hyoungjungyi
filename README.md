@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm an aspiring AI researcher with a keen interest in Huma
 
 
 
-🛠️ Work Experience 
+🛠️ Work Experience    
 KIXLAB, KAIST School of Computing Undergrad research Intern       
 Samsung Medison AI internship   
 DMIS lab Undergraduate Research Intern   
